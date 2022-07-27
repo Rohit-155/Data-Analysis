@@ -5,12 +5,10 @@ In this project, I'm doing a full data analysis with visualization on the footba
 Following steps are taken on the project:
 
 1. Have to import all the relevant libraries of Python.
-2. Find all the relevant information about the data using Pandas library.
-3. Cleaning & manipulating the data using Numpy library.
+2. Find all the relevant information about the data using Numpy library.
+3. Cleaning & manipulating the data using Pandas library.
 4. Converting the data into visuals like pie chart & bar graph using Matplotlib & Seaborn library.
 
-
-Setup
 
 Installation
 
